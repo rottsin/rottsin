@@ -7,6 +7,8 @@
 <p align=center>
  <a href="https://rottsins.atabook.org/">atabook</a>
 
+
+
  <p align=center>
  <img src="https://camo.githubusercontent.com/0ba09c69cf24213a2d60ced3c99cd22f866a1b7c7a4cc286cf765780ae6837b9/68747470733a2f2f65787465726e616c2d6d656469612e73706163656865792e6e65742f6d656469612f7336535171327566315466554f6556736d6d6632354b43554f4e506b35636d4b48756c4e4d4b5a424b6e694d3d2f68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f32383861333966646536646433326537333061646432616536613733393365352f376261343935396163343966303764382d62632f73313030783230302f323034306133623035326461363035656666363637643736336136653832633865376365306561662e67696676" alt="Stamp1" width="100"/>
  <img src="https://64.media.tumblr.com/a86696531899642c410710e29f73d35f/6067f087690a4b6f-cc/s100x200/2163722df532575aa35fafacf9c004406d988f9e.gifv" alt="Stamp2" width="100"/> 
@@ -22,8 +24,9 @@
  <img src="https://external-media.spacehey.net/media/sErLGGau3E128h-KioAqASe-Iufu0KdETkUa_7y4T8iQ=/https://64.media.tumblr.com/cb6628d30a4195bb40e28064e6877b81/a5356dc75055c95c-ad/s100x200/413b375f3ffe19c7d2b216df7c719dd4cd82b87b.gif" alt="Stamp" width="100"/>
  
  </p>
+ ‎   ‎  
 
-
+‎‎‎ ‎   ‎  ‎ ‎  ‎       ![](https://spotify-github-profile.kittinanx.com/api/view?uid=315o6nrmb24jcwtkk5y5gksyjoom&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)
 <p align="center">
   <img src="https://external-media.spacehey.net/media/s7Bz4BJru94EimFP6pQBFwwoekzQ2OOoSSWyv8Vc15dA=/https://64.media.tumblr.com/51bdc06ae3d9af1bf50a0287dad3d7df/055077bfc3e08bab-d2/s400x600/c8d82c6ea6e68167f2d78f411d6ce7e7dc9bb26d.pnj" alt="Description" width="300"/>
 </p>
@@ -32,3 +35,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/8z2q8vrJ/download-10.jpg" alt="Description" width="300"/>
 </p>
+
+
+  
+
