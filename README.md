@@ -21,6 +21,10 @@
  <img src="https://64.media.tumblr.com/3cec65ded310859548a00076239a1b2a/99b03e9f0218f144-ae/s250x400/2e1dfd56a4b097734e0d1279ce507bcca76f5482.gifv" alt="Stamp" width="100"/>
  </p>
 
+<p align="center">
+  <img src="https://external-media.spacehey.net/media/s7Bz4BJru94EimFP6pQBFwwoekzQ2OOoSSWyv8Vc15dA=/https://64.media.tumblr.com/51bdc06ae3d9af1bf50a0287dad3d7df/055077bfc3e08bab-d2/s400x600/c8d82c6ea6e68167f2d78f411d6ce7e7dc9bb26d.pnj" alt="Description" width="300"/>
+</p>
+
 
 <p align="center">
   <img src="https://i.postimg.cc/8z2q8vrJ/download-10.jpg" alt="Description" width="300"/>
