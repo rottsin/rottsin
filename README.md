@@ -18,8 +18,11 @@
 <img src="https://camo.githubusercontent.com/b5c365a68b3c504e834914b752d1a7ab96a7fdb1aa329d5928502b1c98986bad/68747470733a2f2f66696c652e67617264656e2f5a7663392d5f426b476c3438674153742f73636f747466616e2e676966" alt="Stamp" width="100"/>
 <img src="https://camo.githubusercontent.com/56301b11aa9103a8da87d2c09ac1a493ab842354b902941dc2fce7e185472212/68747470733a2f2f66696c652e67617264656e2f5a7663392d5f426b476c3438674153742f643335726136632d66323437623033302d666330332d343231662d386533372d3364633731303934616663312e676966" alt="Stamp" width="100"/>
 <img src="https://64.media.tumblr.com/4ebc616016129955eaba297888ae6e95/9f86e87917c46893-3b/s100x200/99759ad7c2fa2f994a3803da3b09f23479be0f14.pnj" alt="Stamp" width="100"/>
- <img src="https://64.media.tumblr.com/3cec65ded310859548a00076239a1b2a/99b03e9f0218f144-ae/s250x400/2e1dfd56a4b097734e0d1279ce507bcca76f5482.gifv" alt="Stamp" width="100"/>
+ <img src="https://64.media.tumblr.com/ab5c59f191b427e6d6d4ce48170cd8ef/b81ff3c1ceb05456-81/s100x200/cb74bef425726f8ba1ea918831484906f69ec708.pnj" alt="Stamp" width="100"/>
+ <img src="https://external-media.spacehey.net/media/sErLGGau3E128h-KioAqASe-Iufu0KdETkUa_7y4T8iQ=/https://64.media.tumblr.com/cb6628d30a4195bb40e28064e6877b81/a5356dc75055c95c-ad/s100x200/413b375f3ffe19c7d2b216df7c719dd4cd82b87b.gif" alt="Stamp" width="100"/>
+ 
  </p>
+
 
 <p align="center">
   <img src="https://external-media.spacehey.net/media/s7Bz4BJru94EimFP6pQBFwwoekzQ2OOoSSWyv8Vc15dA=/https://64.media.tumblr.com/51bdc06ae3d9af1bf50a0287dad3d7df/055077bfc3e08bab-d2/s400x600/c8d82c6ea6e68167f2d78f411d6ce7e7dc9bb26d.pnj" alt="Description" width="300"/>
