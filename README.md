@@ -24,9 +24,12 @@
  <img src="https://external-media.spacehey.net/media/sErLGGau3E128h-KioAqASe-Iufu0KdETkUa_7y4T8iQ=/https://64.media.tumblr.com/cb6628d30a4195bb40e28064e6877b81/a5356dc75055c95c-ad/s100x200/413b375f3ffe19c7d2b216df7c719dd4cd82b87b.gif" alt="Stamp" width="100"/>
  
  </p>
+ 
+ ‎  
+‎‎‎ ‎   ‎  ‎ ‎  ‎      ‎  
+‎‎‎ ‎   ‎  ‎ ‎  ‎                                      ![](https://spotify-github-profile.kittinanx.com/api/view?uid=315o6nrmb24jcwtkk5y5gksyjoom&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)            
  ‎   ‎  
 
-‎‎‎ ‎   ‎  ‎ ‎  ‎       ![](https://spotify-github-profile.kittinanx.com/api/view?uid=315o6nrmb24jcwtkk5y5gksyjoom&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)
 <p align="center">
   <img src="https://external-media.spacehey.net/media/s7Bz4BJru94EimFP6pQBFwwoekzQ2OOoSSWyv8Vc15dA=/https://64.media.tumblr.com/51bdc06ae3d9af1bf50a0287dad3d7df/055077bfc3e08bab-d2/s400x600/c8d82c6ea6e68167f2d78f411d6ce7e7dc9bb26d.pnj" alt="Description" width="300"/>
 </p>
