@@ -28,9 +28,7 @@
             
  ‎   ‎  
 
-<p align="center">
-  <img src="https://external-media.spacehey.net/media/s7Bz4BJru94EimFP6pQBFwwoekzQ2OOoSSWyv8Vc15dA=/https://64.media.tumblr.com/51bdc06ae3d9af1bf50a0287dad3d7df/055077bfc3e08bab-d2/s400x600/c8d82c6ea6e68167f2d78f411d6ce7e7dc9bb26d.pnj" alt="Description" width="300"/>
-</p>
+
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315o6nrmb24jcwtkk5y5gksyjoom&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false" alt="Spotify Now Playing" />
