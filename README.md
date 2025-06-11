@@ -5,7 +5,7 @@
 <p align=center>​
  sign atabook if you want to!! im also working on a strawpage 
 <p align=center>
- <a href="https://rottsins.atabook.org/">atabook</a>    <a href="https://rentry.co/rotteni/">rentry</a>
+ <a href="https://rottsins.atabook.org/">atabook</a>         <a href="https://rentry.co/rotteni/">rentry</a>
 
 
 
