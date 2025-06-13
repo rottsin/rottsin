@@ -40,5 +40,5 @@
   <img src="https://i.postimg.cc/8z2q8vrJ/download-10.jpg" alt="Description" width="300"/>
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rottsin&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=rottsin&color=RED)
   
