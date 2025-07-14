@@ -30,7 +30,6 @@
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315o6nrmb24jcwtkk5y5gksyjoom&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
